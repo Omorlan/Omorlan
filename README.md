@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Evgeniy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">PhD student Information Systems and Technologies.</h3>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Ordo99)](https://github.com/KnlnKS/leetcode-stats)
 
 In the learning process, I use
 <div>
